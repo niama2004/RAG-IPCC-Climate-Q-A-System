@@ -183,7 +183,8 @@ curl -X POST "http://localhost:8000/ask" \
 
 ## 📊 Results Example
 
-![RAG Demo Results](data/rag_results.png)
+![RAG Demo Results](<img width="787" height="493" alt="image" src="https://github.com/user-attachments/assets/6b6cdc00-7685-43cd-ae27-6f63aa87c3eb" />
+)
 
 *The system successfully retrieves relevant IPCC documents and generates contextual answers with proper source attribution.*
 
