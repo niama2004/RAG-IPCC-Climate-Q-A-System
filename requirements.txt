@@ -1,0 +1,14 @@
+langchain
+langchain-ollama
+langchain-community
+chromadb
+unstructured[pdf]
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+pypdf
+tiktoken
+streamlit
+requests
+pydantic
